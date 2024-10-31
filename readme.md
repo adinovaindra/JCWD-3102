@@ -11,3 +11,4 @@
 | Imam Harits Nasruddin | Student |
 | M Naufal Hasyim       | Web Developer|
 | Rangga Satria | Web Developer |
+| Adinova Indra Permana | Web Developer|
