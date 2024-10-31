@@ -14,3 +14,4 @@
 | Adinova Indra Permana | Web Developer|
 |Muhamad Pahmi Adriansah| Web developer|
 | Ahmad Idrus | Web Developer |
+| Teuku Kurnia Yogas Wara | Web Developper|
