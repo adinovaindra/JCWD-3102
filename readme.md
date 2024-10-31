@@ -8,3 +8,4 @@
 | Nindita Eka Setyahandani | Web Developer|
 | Zaky Luthfan Zhafiri | Web Developer|
 | Imam Harits Nasruddin | Student |
+| M Naufal Hasyim       | Web Developer|
