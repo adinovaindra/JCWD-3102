@@ -12,3 +12,5 @@
 | M Naufal Hasyim       | Web Developer|
 | Rangga Satria | Web Developer |
 | Adinova Indra Permana | Web Developer|
+|Muhamad Pahmi Adriansah| Web developer|
+git
