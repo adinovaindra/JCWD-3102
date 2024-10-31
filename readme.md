@@ -7,3 +7,4 @@
 | Dita Aulia Ilanafari | Web Developer|
 | Nindita Eka Setyahandani | Web Developer|
 | Zaky Luthfan Zhafiri | Web Developer|
+| Imam Harits Nasruddin | Student |
